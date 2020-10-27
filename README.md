@@ -12,6 +12,7 @@ kubectl create -f backend.yaml
 ```
 ## Frontend
 Required
+- ConfigMap
 - Pod
 - Service
 - Ingress
